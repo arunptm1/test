@@ -5,7 +5,7 @@ public class Test {
     int a=10;
     int b=20;
     int result = a+b;
-    System.out.println("The sum is " +result);
+    System.out.println("The total is " +result);
     
   }
   static void sub(){
