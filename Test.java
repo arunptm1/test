@@ -16,13 +16,21 @@ public class Test {
     System.out.println("The diff is " +result1);
     
   }
+static void multi(){
 
+    int e=20;
+    int f=10;
+    int result2 = e*f;
+    System.out.println("The product is " +result2);
+    
+  }
    
 
   public static void main(String[] args)
   {
     add();
     sub();
+    multi();
 
   }
 }
